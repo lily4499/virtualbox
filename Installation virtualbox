@@ -1,0 +1,15 @@
+INSTALL VIRTUALBOX ON WINDOWS
+
+
+DOWNLOAD AND install Microsoft Visual C++ Redistributable latest supported downloads
+  https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+DOWNLOAD AND install python from here 
+  https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
+        Dont forget to click on "add python path" before installing.
+  Once python is installed, open cmd and execute the below command
+
+  pip install pywin32
+
+DOWNLOAD AND install virtualBox 7.0.8 platform packages
+  https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8-156879-Win.exe
